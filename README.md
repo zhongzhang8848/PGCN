@@ -7,7 +7,7 @@ Please install the following packages
 - scipy
 - scikit-learn==0.18.1
 # Download features files
-We provide features files extracted from Market1501, CUHK03-NP detected Subset, DukeMTMC-reID and MSMT17, you could download from [Google Drive]() or [Baidu Cloud]().
+We provide features files extracted from Market1501, CUHK03-NP detected Subset, DukeMTMC-reID and MSMT17, you could download from [Baidu Cloud]().
 # Testing
 You need modify the path of features files in [``evaluate/evaluate.py``](https://github.com/zhongzhang8848/PGCN/blob/master/evaluate/evaluate.py), and then run it.
 # Citing this repository
